@@ -1,0 +1,251 @@
+.sprite {
+    background-image: url("../img/spritesheet.png");
+    background-repeat: no-repeat;
+}
+
+
+.sprite-about-200-years {
+    width: 67px;
+    height: 57px;
+    background-position: -5px -5px;
+}
+
+.sprite-about-68 {
+    width: 80px;
+    height: 57px;
+    background-position: -82px -5px;
+}
+
+.sprite-about-cup {
+    width: 55px;
+    height: 65px;
+    background-position: -172px -5px;
+}
+
+.sprite-about-manufacture {
+    width: 80px;
+    height: 65px;
+    background-position: -5px -80px;
+}
+
+.sprite-about-social {
+    width: 81px;
+    height: 73px;
+    background-position: -95px -80px;
+}
+
+.sprite-breadcrumbs-arrow {
+    width: 9px;
+    height: 5px;
+    background-position: -237px -5px;
+}
+
+.sprite-card-buy {
+    width: 51px;
+    height: 68px;
+    background-position: -237px -20px;
+}
+
+.sprite-card-cart {
+    width: 18px;
+    height: 18px;
+    background-position: -186px -98px;
+}
+
+.sprite-card-fav {
+    width: 58px;
+    height: 62px;
+    background-position: -214px -98px;
+}
+
+.sprite-catalog-button {
+    width: 19px;
+    height: 12px;
+    background-position: -5px -170px;
+}
+
+.sprite-checked {
+    width: 13px;
+    height: 13px;
+    background-position: -282px -98px;
+}
+
+.sprite-fav {
+    width: 14px;
+    height: 14px;
+    background-position: -282px -121px;
+}
+
+.sprite-fb {
+    width: 32px;
+    height: 32px;
+    background-position: -34px -170px;
+}
+
+.sprite-feedback-arrow-left {
+    width: 12px;
+    height: 29px;
+    background-position: -186px -145px;
+}
+
+.sprite-feedback-arrow-right {
+    width: 12px;
+    height: 29px;
+    background-position: -282px -145px;
+}
+
+.sprite-feedback-disable-star {
+    width: 18px;
+    height: 18px;
+    background-position: -76px -170px;
+}
+
+.sprite-feedback-enable-star {
+    width: 18px;
+    height: 18px;
+    background-position: -104px -170px;
+}
+
+.sprite-geo {
+    width: 15px;
+    height: 21px;
+    background-position: -132px -170px;
+}
+
+.sprite-green-cart {
+    width: 20px;
+    height: 20px;
+    background-position: -208px -170px;
+}
+
+.sprite-label-partner-arrow {
+    width: 87px;
+    height: 21px;
+    background-position: -157px -200px;
+}
+
+.sprite-label-promo-arrow {
+    width: 87px;
+    height: 21px;
+    background-position: -5px -231px;
+}
+
+.sprite-mail {
+    width: 18px;
+    height: 14px;
+    background-position: -157px -170px;
+}
+
+.sprite-order-expand {
+    width: 8px;
+    height: 16px;
+    background-position: -254px -184px;
+}
+
+.sprite-order-status-success {
+    width: 12px;
+    height: 11px;
+    background-position: -272px -184px;
+}
+
+.sprite-pagination-next {
+    width: 6px;
+    height: 6px;
+    background-position: -185px -184px;
+}
+
+.sprite-pagination-prev {
+    width: 6px;
+    height: 6px;
+    background-position: -238px -184px;
+}
+
+.sprite-partner-big-transparent {
+    width: 75px;
+    height: 56px;
+    background-position: -102px -231px;
+}
+
+.sprite-phone {
+    width: 17px;
+    height: 18px;
+    background-position: -272px -205px;
+}
+
+.sprite-product-count-dec {
+    width: 12px;
+    height: 7px;
+    background-position: -5px -205px;
+}
+
+.sprite-product-count-inc {
+    width: 12px;
+    height: 7px;
+    background-position: -76px -205px;
+}
+
+.sprite-product-delete {
+    width: 37px;
+    height: 37px;
+    background-position: -187px -233px;
+}
+
+.sprite-promo-big-transparent {
+    width: 68px;
+    height: 68px;
+    background-position: -298px -5px;
+}
+
+.sprite-search {
+    width: 22px;
+    height: 23px;
+    background-position: -305px -83px;
+}
+
+.sprite-slider-arrow-left {
+    width: 39px;
+    height: 63px;
+    background-position: -306px -116px;
+}
+
+.sprite-slider-arrow-right {
+    width: 39px;
+    height: 63px;
+    background-position: -299px -189px;
+}
+
+.sprite-slider-point {
+    width: 19px;
+    height: 19px;
+    background-position: -337px -83px;
+}
+
+.sprite-slider-point-select {
+    width: 19px;
+    height: 19px;
+    background-position: -355px -112px;
+}
+
+.sprite-sort-arrow-bottom {
+    width: 12px;
+    height: 7px;
+    background-position: -355px -141px;
+}
+
+.sprite-sort-arrow-top {
+    width: 12px;
+    height: 7px;
+    background-position: -355px -158px;
+}
+
+.sprite-up-button {
+    width: 61px;
+    height: 61px;
+    background-position: -5px -262px;
+}
+
+.sprite-vk {
+    width: 32px;
+    height: 32px;
+    background-position: -234px -262px;
+}
